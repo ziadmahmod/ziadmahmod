@@ -79,6 +79,10 @@ class ZiadMahmoud:
   <a href="https://www.youtube.com/@CyberWithZuz">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@cyberwithzuz">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
 
 [![eJPT Notes](https://github-readme-stats.vercel.app/api/pin/?username=ziadmahmod&repo=eJPT-Notes&theme=chartreuse-dark)](https://github.com/ziadmahmod/eJPT-Notes)
