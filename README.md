@@ -2,12 +2,6 @@
   <img src="./banner.svg" alt="Ziad Mahmoud Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hey, I'm Ziad Mahmoud 👋</h1>
-
-<p align="center">
-  <b>Cybersecurity Professional · Penetration Tester · CTF Player · Bug Bounty Hunter</b>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Penetration+Tester+in+Progress;CTF+Player+%7C+Bug+Bounty+Hunter;Always+learning%2C+always+hacking." alt="Typing SVG" />
 </p>
