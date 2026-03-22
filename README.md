@@ -83,6 +83,10 @@ class ZiadMahmoud:
   <a href="https://www.tiktok.com/@cyberwithzuz">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61585608526728">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 [![eJPT Notes](https://github-readme-stats.vercel.app/api/pin/?username=ziadmahmod&repo=eJPT-Notes&theme=chartreuse-dark)](https://github.com/ziadmahmod/eJPT-Notes)
