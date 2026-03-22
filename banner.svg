@@ -1,0 +1,34 @@
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="200" rx="8" fill="#0d1117"/>
+  <g stroke="#00ff4122" stroke-width="0.5">
+    <line x1="0" y1="40" x2="680" y2="40"/>
+    <line x1="0" y1="80" x2="680" y2="80"/>
+    <line x1="0" y1="120" x2="680" y2="120"/>
+    <line x1="0" y1="160" x2="680" y2="160"/>
+    <line x1="80" y1="0" x2="80" y2="200"/>
+    <line x1="160" y1="0" x2="160" y2="200"/>
+    <line x1="240" y1="0" x2="240" y2="200"/>
+    <line x1="320" y1="0" x2="320" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="480" y1="0" x2="480" y2="200"/>
+    <line x1="560" y1="0" x2="560" y2="200"/>
+    <line x1="640" y1="0" x2="640" y2="200"/>
+  </g>
+  <circle cx="60" cy="100" r="40" fill="none" stroke="#00ff41" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="60" cy="100" r="28" fill="none" stroke="#00ff41" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="620" cy="100" r="40" fill="none" stroke="#00ff41" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="620" cy="100" r="28" fill="none" stroke="#00ff41" stroke-width="0.5" opacity="0.3"/>
+  <path d="M20 20 L20 40 M20 20 L40 20" fill="none" stroke="#00ff41" stroke-width="1.5"/>
+  <path d="M660 20 L660 40 M660 20 L640 20" fill="none" stroke="#00ff41" stroke-width="1.5"/>
+  <path d="M20 180 L20 160 M20 180 L40 180" fill="none" stroke="#00ff41" stroke-width="1.5"/>
+  <path d="M660 180 L660 160 M660 180 L640 180" fill="none" stroke="#00ff41" stroke-width="1.5"/>
+  <text x="340" y="90" text-anchor="middle" font-family="monospace" font-size="42" font-weight="700" fill="#00ff41" letter-spacing="6">ZIAD MAHMOUD</text>
+  <line x1="160" y1="105" x2="520" y2="105" stroke="#00ff41" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="160" cy="105" r="3" fill="#00ff41" opacity="0.8"/>
+  <circle cx="520" cy="105" r="3" fill="#00ff41" opacity="0.8"/>
+  <text x="340" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#00ff41" opacity="0.8" letter-spacing="3">PENETRATION TESTER · BUG BOUNTY · CTF PLAYER</text>
+  <text x="340" y="160" text-anchor="middle" font-family="monospace" font-size="12" fill="#00ff4166" letter-spacing="2">[ eJPT CERTIFIED · CBBH CERTIFIED ]</text>
+  <rect x="0" y="0" width="680" height="2" fill="#00ff41" opacity="0.15">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 200" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

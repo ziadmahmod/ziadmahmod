@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" alt="Ziad Mahmoud Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hey, I'm Ziad Mahmoud 👋</h1>
 
 <p align="center">
