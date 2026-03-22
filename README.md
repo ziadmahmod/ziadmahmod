@@ -85,5 +85,5 @@ class ZiadMahmoud:
 </p>
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i> — Kali Linux
+  <i>"I do cybersecurity, I know everything."</i>
 </p>
