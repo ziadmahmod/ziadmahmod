@@ -55,6 +55,28 @@ class ZiadMahmoud:
 
 ---
 
+## 🏆 Hacking Platforms
+
+<p align="center">
+  <a href="https://tryhackme.com/p/httpZuz">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/httpZuz.png" alt="TryHackMe Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/httpzuz">
+    <img src="https://www.hackthebox.eu/badge/image/httpzuz" alt="HackTheBox Badge"/>
+  </a>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadmahmod&theme=matrix&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ## 📌 Featured Repositories
 
 [![eJPT Notes](https://github-readme-stats.vercel.app/api/pin/?username=ziadmahmod&repo=eJPT-Notes&theme=chartreuse-dark)](https://github.com/ziadmahmod/eJPT-Notes)
