@@ -65,15 +65,21 @@ class ZiadMahmoud:
 
 ---
 
-## 📈 Activity Graph
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ziadmahmod&theme=matrix&hide_border=true" width="100%"/>
+  <a href="https://github.com/ziadmahmod">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ziadmahmod">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@CyberWithZuz">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 📌 Featured Repositories
 
 [![eJPT Notes](https://github-readme-stats.vercel.app/api/pin/?username=ziadmahmod&repo=eJPT-Notes&theme=chartreuse-dark)](https://github.com/ziadmahmod/eJPT-Notes)
 
@@ -87,14 +93,6 @@ class ZiadMahmoud:
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ziadmahmod">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
