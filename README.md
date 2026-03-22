@@ -50,6 +50,7 @@ class ZiadMahmoud:
 
 - ✅ **eJPT** — Certified *(eLearnSecurity Junior Penetration Tester)*
 - ✅ **CBBH** — Content Completed *(Bug Bounty Hunter - HackTheBox)*
+- 🔄 **eMAPT** — Preparing *(Mobile Application Penetration Tester - eLearnSecurity)*
 
 ---
 
