@@ -61,10 +61,6 @@ class ZiadMahmoud:
   <a href="https://tryhackme.com/p/httpZuz">
     <img src="https://tryhackme-badges.s3.amazonaws.com/httpZuz.png" alt="TryHackMe Badge"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/httpzuz">
-    <img src="https://www.hackthebox.eu/badge/image/httpzuz" alt="HackTheBox Badge"/>
-  </a>
 </p>
 
 ---
