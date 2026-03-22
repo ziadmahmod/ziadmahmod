@@ -16,7 +16,6 @@
 class ZiadMahmoud:
     role       = "Cybersecurity Professional"
     focus      = ["Penetration Testing", "Bug Bounty", "CTF Challenges"]
-    currently  = "Preparing for eJPT Certification"
     learning   = ["Web Application Security", "Network Pentesting", "Red Teaming"]
     motto      = "Think like an attacker, act like a defender."
 ```
@@ -49,10 +48,10 @@ class ZiadMahmoud:
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 
-- 🔄 **eJPT** — In Progress *(eLearnSecurity Junior Penetration Tester)*
-- 📚 Studying: **Metasploit · Active Directory · Web App Pentesting**
+- ✅ **eJPT** — Certified *(eLearnSecurity Junior Penetration Tester)*
+- ✅ **CBBH** — Certified *(Bug Bounty Hunter - HackTheBox)**
 
 ---
 
