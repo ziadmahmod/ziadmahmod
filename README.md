@@ -49,7 +49,7 @@ class ZiadMahmoud:
 ## 📜 Certifications
 
 - ✅ **eJPT** — Certified *(eLearnSecurity Junior Penetration Tester)*
-- ✅ **CBBH** — Certified *(Bug Bounty Hunter - HackTheBox)**
+- ✅ **CBBH** — Content Completed *(Bug Bounty Hunter - HackTheBox)*
 
 ---
 

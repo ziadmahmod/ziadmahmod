@@ -27,7 +27,7 @@
   <circle cx="160" cy="105" r="3" fill="#00ff41" opacity="0.8"/>
   <circle cx="520" cy="105" r="3" fill="#00ff41" opacity="0.8"/>
   <text x="340" y="130" text-anchor="middle" font-family="monospace" font-size="14" fill="#00ff41" opacity="0.8" letter-spacing="3">PENETRATION TESTER · BUG BOUNTY · CTF PLAYER</text>
-  <text x="340" y="160" text-anchor="middle" font-family="monospace" font-size="12" fill="#00ff4166" letter-spacing="2">[ eJPT CERTIFIED · CBBH CERTIFIED ]</text>
+  <text x="340" y="160" text-anchor="middle" font-family="monospace" font-size="12" fill="#00ff4166" letter-spacing="2">[ eJPT CERTIFIED · CBBH CONTENT COMPLETED ]</text>
   <rect x="0" y="0" width="680" height="2" fill="#00ff41" opacity="0.15">
     <animateTransform attributeName="transform" type="translate" from="0 0" to="0 200" dur="3s" repeatCount="indefinite"/>
   </rect>
