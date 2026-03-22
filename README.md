@@ -39,7 +39,7 @@ class ZiadMahmoud:
 
 | Domain | Skills |
 |--------|--------|
-| 🔴 **Penetration Testing** | Network, Web App, Active Directory |
+| 🔴 **Penetration Testing** | Network, Web App |
 | 🐛 **Bug Bounty** | Recon, OWASP Top 10, Reporting |
 | 🚩 **CTF** | HackTheBox, TryHackMe, PicoCTF |
 | 🌐 **Network Security** | Nmap, Wireshark, Pivoting, MITM |
